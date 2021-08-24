@@ -9,7 +9,7 @@
 - Raspbian Jessie
 - Ubuntu 18.04
 
-## Platform
+## IaaS Platforms
 - Azure IoT Hub
 - Docker
 - GitHub Actions
